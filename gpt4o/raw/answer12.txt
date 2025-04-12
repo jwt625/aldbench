@@ -1,0 +1,15 @@
+Atomic layer deposition (ALD) of molybdenum disulfide (MoS₂) using molybdenum hexacarbonyl (Mo(CO)₆) as the molybdenum precursor can be challenging due to the need for precise control over the nucleation and growth processes. In many cases, a nucleation layer or seed layer is beneficial or even necessary to achieve uniform and high-quality MoS₂ films.
+
+The requirement for a nucleation layer depends on several factors, including the substrate material, the specific ALD process parameters, and the desired film properties. A nucleation layer can help in several ways:
+
+1. **Improved Adhesion**: A nucleation layer can enhance the adhesion of the MoS₂ film to the substrate, which is crucial for the mechanical stability of the film.
+
+2. **Uniform Growth**: It can promote uniform nucleation sites across the substrate, leading to more consistent film thickness and quality.
+
+3. **Reduced Defects**: A well-chosen nucleation layer can help reduce defects and improve the crystallinity of the MoS₂ film.
+
+4. **Enhanced Electrical Properties**: For electronic applications, a nucleation layer can help achieve the desired electrical properties by influencing the film's morphology and phase.
+
+Common materials used as nucleation layers for MoS₂ ALD include thin films of transition metals, metal oxides, or even other 2D materials. The choice of nucleation layer material and its thickness will depend on the specific application and the characteristics of the substrate.
+
+In summary, while a nucleation layer is not always strictly necessary, it is often beneficial for achieving high-quality MoS₂ films when using molybdenum hexacarbonyl as the Mo precursor in ALD processes.

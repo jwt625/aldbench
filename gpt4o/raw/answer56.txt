@@ -1,0 +1,15 @@
+Yes, co-reactants in sequential pulses can be used to modify the surface during Atomic Layer Deposition (ALD) to adjust the growth per cycle. ALD is a thin-film deposition technique that relies on self-limiting surface reactions to achieve precise control over film thickness and composition at the atomic level. By introducing co-reactants, you can influence the surface chemistry and modify the growth characteristics.
+
+Co-reactants can be used to:
+
+1. **Enhance Reactivity:** Introducing a co-reactant can increase the reactivity of the surface, allowing for more complete reactions and potentially increasing the growth per cycle.
+
+2. **Modify Surface Termination:** Co-reactants can change the surface termination, which can alter the adsorption characteristics of subsequent precursor pulses, thereby affecting the growth rate.
+
+3. **Incorporate Dopants or Alloying Elements:** By using co-reactants that contain different elements, you can incorporate dopants or create alloyed films, which can modify the growth per cycle and the properties of the deposited film.
+
+4. **Control Film Composition:** Sequential pulses of different co-reactants can be used to control the composition of the film, allowing for the deposition of complex materials with tailored properties.
+
+5. **Influence Nucleation and Growth Modes:** Co-reactants can affect the nucleation density and growth modes, which can lead to changes in film morphology and growth rate.
+
+Overall, the use of co-reactants in ALD provides a versatile tool for tailoring film properties and growth characteristics, enabling the deposition of advanced materials with specific functionalities.

@@ -1,0 +1,5 @@
+Atomic Layer Deposition (ALD) is typically conducted under vacuum conditions to ensure precise control over the deposition process and to prevent contamination. However, there are variations of ALD that can be performed under atmospheric pressure, known as Atmospheric Pressure ALD (AP-ALD) or Spatial ALD.
+
+In AP-ALD, the reactants are separated spatially rather than temporally, which allows the process to occur at atmospheric pressure. This method can be advantageous for certain applications, such as large-area coatings or roll-to-roll processing, where maintaining a vacuum would be challenging or cost-prohibitive.
+
+While AP-ALD can offer benefits in terms of scalability and cost, it may also present challenges in terms of achieving the same level of film uniformity and thickness control as traditional vacuum-based ALD. The choice between vacuum-based ALD and AP-ALD depends on the specific requirements of the application, including the desired film properties, substrate size, and production scale.

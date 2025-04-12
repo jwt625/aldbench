@@ -1,0 +1,12 @@
+Atomic Layer Deposition (ALD) is a technique used to deposit thin films with atomic precision. For growing tungsten (W) metal films using ALD, you typically need a tungsten precursor and a co-reactant. The choice of these chemicals can vary depending on the specific ALD process and desired film properties. Here are some common options:
+
+1. **Tungsten Precursors:**
+   - **Tungsten Hexafluoride (WF₆):** This is one of the most commonly used tungsten precursors in ALD processes.
+
+2. **Co-reactants:**
+   - **Silane (SiH₄):** Often used as a reducing agent to facilitate the deposition of tungsten metal.
+   - **Dihydrogen (H₂):** Hydrogen gas can also be used as a reducing agent.
+   - **Ammonia (NH₃):** In some processes, ammonia is used, especially when aiming for tungsten nitride films.
+   - **Plasma or Radical Sources:** Plasma-enhanced ALD (PEALD) can use plasma-generated radicals like hydrogen radicals to assist in the reduction of the tungsten precursor.
+
+The specific choice of co-reactant and process conditions (such as temperature, pressure, and plasma power, if applicable) will depend on the desired film characteristics, such as purity, density, and electrical properties. Additionally, safety and compatibility with the substrate and other materials in the device structure are important considerations.

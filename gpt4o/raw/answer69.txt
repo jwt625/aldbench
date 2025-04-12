@@ -1,0 +1,7 @@
+Yes, Atomic Layer Deposition (ALD) has been used for the modification of gas separation and solvent separation membranes. ALD is a thin-film deposition technique that allows for precise control over the thickness and composition of the deposited layers at the atomic scale. This precision makes it particularly useful for modifying membrane surfaces and pores to enhance their separation performance.
+
+In gas separation membranes, ALD can be used to deposit thin layers of materials that improve selectivity and permeability. For example, ALD can be used to coat the pores of a membrane with a material that selectively allows certain gases to pass through while blocking others, thereby enhancing the membrane's separation capabilities.
+
+Similarly, in solvent separation membranes, ALD can be employed to modify the surface properties of the membrane, such as hydrophilicity or hydrophobicity, which can improve the membrane's ability to separate different solvents or solutes. The technique can also be used to enhance the chemical and thermal stability of membranes, making them more suitable for harsh operating conditions.
+
+Overall, ALD provides a versatile tool for tailoring the properties of separation membranes to meet specific application requirements, and its use in this field is an area of active research and development.

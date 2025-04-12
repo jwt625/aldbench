@@ -1,0 +1,17 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that relies on sequential, self-limiting surface reactions to achieve precise control over film thickness and composition. However, if contamination from precursor fragments remains in the ALD film, it can have several effects on the crystal structure and overall properties of the film:
+
+1. **Defects and Dislocations**: Contaminants can introduce point defects, such as vacancies or interstitials, and dislocations in the crystal lattice. These defects can disrupt the periodicity of the crystal structure, leading to a decrease in crystallinity.
+
+2. **Amorphization**: High levels of contamination can prevent the film from crystallizing properly, resulting in an amorphous structure rather than a well-ordered crystalline one. This can significantly alter the film's optical, electrical, and mechanical properties.
+
+3. **Strain and Stress**: Impurities can induce strain within the crystal lattice, leading to stress in the film. This can cause warping, cracking, or delamination, especially in thicker films or those deposited on substrates with different thermal expansion coefficients.
+
+4. **Phase Changes**: Contaminants might stabilize different phases of the material that are not present in the pure form. This can lead to the formation of unwanted polymorphs or phases with different properties.
+
+5. **Electrical Properties**: In semiconducting or insulating films, contamination can introduce trap states or alter the band structure, affecting the film's electrical conductivity and dielectric properties.
+
+6. **Optical Properties**: Impurities can affect the optical properties of the film, such as its refractive index, absorption, and transparency, which is critical for applications in optics and photonics.
+
+7. **Chemical Stability**: Contaminants can affect the chemical stability and reactivity of the film, potentially making it more susceptible to corrosion or chemical degradation.
+
+Overall, maintaining high purity in ALD films is crucial for ensuring that the desired crystal structure and properties are achieved. This often requires careful selection and handling of precursors, as well as optimization of the deposition process to minimize contamination.

@@ -1,0 +1,17 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that is particularly useful for creating uniform and conformal coatings on complex substrates, including membranes. Several metal oxides have been deposited via ALD for membrane applications, each offering unique properties that can enhance membrane performance. Some of the commonly used metal oxides include:
+
+1. **Aluminum Oxide (Al₂O₃):** Known for its excellent chemical resistance and stability, Al₂O₃ is often used to improve the mechanical strength and thermal stability of membranes.
+
+2. **Titanium Dioxide (TiO₂):** TiO₂ is valued for its photocatalytic properties and is used in applications where UV-induced reactions are beneficial, such as in self-cleaning or antimicrobial membranes.
+
+3. **Zinc Oxide (ZnO):** ZnO is another photocatalytic material that can be used to impart antimicrobial properties to membranes.
+
+4. **Silicon Dioxide (SiO₂):** SiO₂ is often used to create hydrophilic surfaces, which can enhance water permeability and reduce fouling in filtration membranes.
+
+5. **Hafnium Oxide (HfO₂):** Known for its high dielectric constant and chemical stability, HfO₂ can be used in applications requiring robust and durable membranes.
+
+6. **Zirconium Dioxide (ZrO₂):** ZrO₂ is used for its thermal stability and resistance to chemical attack, making it suitable for harsh operating conditions.
+
+7. **Iron Oxide (Fe₂O₃):** Used for its magnetic properties, Fe₂O₃ can be incorporated into membranes for applications involving magnetic separation or catalysis.
+
+These metal oxides can be tailored to enhance specific membrane properties such as selectivity, permeability, fouling resistance, and mechanical strength, depending on the intended application.

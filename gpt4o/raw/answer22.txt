@@ -1,0 +1,3 @@
+For atomic layer deposition (ALD) of platinum using the precursor Pt(MeCp)Me3 (methylcyclopentadienyl trimethyl platinum), a common co-reactant is oxygen (O2) or ozone (O3). These oxidizing agents help to remove the organic ligands from the precursor, facilitating the deposition of pure platinum. 
+
+In some cases, other co-reactants like water (H2O) or hydrogen (H2) can also be used, depending on the specific process conditions and desired film properties. However, O2 or O3 are more commonly used for achieving high-purity platinum films. Always consider the specific requirements of your deposition system and the desired properties of the deposited film when selecting a co-reactant.

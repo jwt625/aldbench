@@ -1,0 +1,15 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that relies on sequential, self-limiting surface reactions to build up films one atomic layer at a time. Temperature plays a crucial role in the ALD process, affecting the growth rate, film quality, and overall process efficiency. Here are some key ways temperature impacts ALD:
+
+1. **Surface Reaction Kinetics**: Temperature influences the kinetics of the surface reactions. At optimal temperatures, the precursors react efficiently with the surface, ensuring complete and uniform coverage. If the temperature is too low, the reaction may be incomplete, leading to poor film quality. Conversely, if the temperature is too high, it can lead to decomposition of the precursors or desorption of the adsorbed species, which can also degrade film quality.
+
+2. **Self-Limiting Nature**: ALD relies on self-limiting reactions to control film thickness at the atomic level. Temperature must be carefully controlled to maintain this self-limiting behavior. If the temperature is not within the appropriate range, the reactions may not be self-limiting, leading to non-uniform film growth.
+
+3. **Precursor Volatility**: The volatility of the precursors is temperature-dependent. Precursors need to be volatile enough to be transported to the substrate but stable enough not to decompose before reaching the surface. The temperature must be optimized to ensure that the precursors are in the correct phase for efficient delivery and reaction.
+
+4. **Film Density and Quality**: Temperature can affect the density and crystallinity of the deposited films. Higher temperatures can promote better crystallinity and denser films, which are often desirable for certain applications. However, excessively high temperatures can lead to unwanted grain growth or phase changes.
+
+5. **Growth Per Cycle (GPC)**: The growth per cycle, a measure of how much material is deposited in each ALD cycle, can be temperature-dependent. There is typically an optimal temperature range where the GPC is maximized while maintaining film quality. Outside this range, the GPC may decrease due to incomplete reactions or precursor decomposition.
+
+6. **Thermal Budget**: In semiconductor manufacturing, the thermal budget is a critical consideration. ALD processes must be compatible with the thermal constraints of the underlying materials and devices. High temperatures can cause diffusion or damage to sensitive layers, so the ALD temperature must be carefully managed.
+
+In summary, temperature is a critical parameter in the ALD process, influencing reaction kinetics, precursor behavior, film quality, and growth rates. Optimizing the temperature is essential for achieving the desired film characteristics and ensuring the efficiency and reliability of the ALD process.

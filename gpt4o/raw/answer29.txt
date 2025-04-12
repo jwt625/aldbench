@@ -1,0 +1,17 @@
+Atomic Layer Deposition (ALD) is a technique used to deposit thin films with atomic precision. The crystallinity of MoS₂ thin films produced by ALD can be influenced by the choice of precursors, among other factors such as deposition temperature and post-deposition treatments.
+
+For MoS₂, the choice of metal and sulfur precursors is crucial. Commonly used metal precursors include molybdenum hexacarbonyl (Mo(CO)₆) and molybdenum chloride (MoCl₅), while sulfur precursors often include hydrogen sulfide (H₂S) and various organic sulfur compounds like diethyl sulfide or tert-butyl disulfide.
+
+The crystallinity of the resulting MoS₂ films can be affected by:
+
+1. **Precursor Reactivity**: Highly reactive precursors can lead to more complete reactions and better film quality. However, too high reactivity might also lead to non-uniform growth or unwanted side reactions.
+
+2. **Deposition Temperature**: Higher temperatures generally promote better crystallinity by providing the energy needed for atoms to arrange into a more ordered structure. However, the temperature must be compatible with the thermal stability of the precursors.
+
+3. **Post-Deposition Annealing**: Annealing the films after deposition can significantly improve crystallinity by allowing atoms to rearrange into a more thermodynamically stable structure.
+
+4. **Precursor Purity and Delivery**: Impurities in precursors can lead to defects in the film, affecting crystallinity. Consistent and controlled delivery of precursors is also crucial for uniform film growth.
+
+5. **Substrate Choice and Preparation**: The substrate can influence the nucleation and growth of MoS₂. A clean, smooth substrate can promote better crystallinity.
+
+In summary, while certain precursors might inherently lead to better crystallinity due to their chemical properties, achieving high-quality crystalline MoS₂ films typically requires optimizing a combination of factors, including precursor choice, deposition conditions, and post-deposition treatments.

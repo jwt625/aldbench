@@ -1,0 +1,34 @@
+Atomic Layer Deposition (ALD) of iridium (Ir) typically involves the use of specific precursors and carefully controlled fabrication conditions. Here are some common precursors and conditions used for Ir ALD:
+
+### Precursors:
+1. **Iridium(III) Acetylacetonate (Ir(acac)3):**
+   - This is a widely used precursor for Ir ALD due to its volatility and stability.
+
+2. **Iridium(III) Cyclopentadienyl (IrCp) Compounds:**
+   - Compounds like (methylcyclopentadienyl)iridium(I) (MeCp)Ir(COD) are also used. COD stands for 1,5-cyclooctadiene.
+
+3. **Iridium(III) Hexafluoroacetylacetonate (Ir(hfac)3):**
+   - This is another option, although less common due to potential fluorine contamination.
+
+### Co-reactants:
+- **Oxygen (O2):** Often used as a co-reactant to facilitate the formation of iridium oxide, which can then be reduced to metallic iridium.
+- **Ozone (O3):** Provides a more reactive oxygen source, which can enhance the growth rate and quality of the film.
+- **Hydrogen (H2):** Sometimes used in combination with oxygen to control the oxidation state and morphology of the deposited film.
+
+### Fabrication Conditions:
+1. **Temperature:**
+   - The deposition temperature typically ranges from 200°C to 300°C. The exact temperature depends on the precursor and desired film properties.
+
+2. **Pressure:**
+   - ALD processes are usually conducted under low pressure, often in the range of a few millitorr to a few hundred millitorr.
+
+3. **Pulse and Purge Times:**
+   - Precise control over the precursor pulse and purge times is crucial. Typical pulse times range from 0.5 to 2 seconds, followed by purge times of 5 to 30 seconds to ensure complete removal of excess precursor and by-products.
+
+4. **Substrate:**
+   - The choice of substrate can affect the nucleation and growth of the iridium film. Common substrates include silicon, silicon dioxide, and various metal oxides.
+
+5. **Cycle Count:**
+   - The number of ALD cycles determines the thickness of the iridium film. The growth per cycle (GPC) is typically in the range of 0.1 to 0.2 nm per cycle.
+
+These conditions can vary based on the specific equipment and desired film characteristics. It's important to optimize the process parameters for your specific application and equipment setup.

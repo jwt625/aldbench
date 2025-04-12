@@ -1,0 +1,35 @@
+Atomic Layer Deposition (ALD) is a precise thin-film deposition technique that allows for the controlled growth of materials at the atomic level. Growing strontium titanate (SrTiO₃) using ALD involves alternating cycles of precursor exposure to deposit strontium oxide (SrO) and titanium dioxide (TiO₂) layers, which then form the desired SrTiO₃ film. Here is a general outline of a process for growing strontium titanate by ALD:
+
+### Precursor Selection
+1. **Strontium Precursor**: A common choice is strontium bis(triisopropylcyclopentadienyl), Sr(iPr₃Cp)₂, due to its volatility and thermal stability.
+2. **Titanium Precursor**: Titanium isopropoxide (TTIP, Ti(OiPr)₄) is often used for its availability and reactivity.
+3. **Oxygen Source**: Water (H₂O) or ozone (O₃) can be used as the oxygen source to oxidize the metal precursors.
+
+### ALD Process Steps
+1. **Substrate Preparation**: Clean the substrate thoroughly to ensure good adhesion and uniform growth. Common substrates include silicon wafers or other oxide materials.
+
+2. **Deposition Temperature**: Set the deposition temperature typically between 200°C and 300°C. This temperature range is often optimal for the precursors mentioned, balancing reactivity and thermal stability.
+
+3. **SrO Layer Deposition**:
+   - **Sr Precursor Pulse**: Introduce the Sr precursor into the chamber for a few seconds to allow adsorption onto the substrate surface.
+   - **Purge**: Purge the chamber with an inert gas (e.g., nitrogen or argon) to remove excess precursor and by-products.
+   - **Oxygen Source Pulse**: Introduce the oxygen source (H₂O or O₃) to oxidize the adsorbed Sr precursor, forming SrO.
+   - **Purge**: Purge the chamber again to remove excess oxygen source and by-products.
+
+4. **TiO₂ Layer Deposition**:
+   - **Ti Precursor Pulse**: Introduce the Ti precursor into the chamber for a few seconds to allow adsorption onto the SrO surface.
+   - **Purge**: Purge the chamber with an inert gas to remove excess precursor and by-products.
+   - **Oxygen Source Pulse**: Introduce the oxygen source to oxidize the adsorbed Ti precursor, forming TiO₂.
+   - **Purge**: Purge the chamber again to remove excess oxygen source and by-products.
+
+5. **Cycle Repetition**: Repeat the SrO and TiO₂ deposition cycles alternately to achieve the desired thickness of SrTiO₃. The stoichiometry can be controlled by adjusting the number of cycles for each component.
+
+### Process Optimization
+- **Stoichiometry Control**: Fine-tune the number of cycles for SrO and TiO₂ to achieve the correct stoichiometry of SrTiO₃.
+- **Growth Rate Monitoring**: Use in-situ monitoring techniques like quartz crystal microbalance (QCM) or ellipsometry to track the growth rate and ensure uniformity.
+- **Post-Deposition Annealing**: Consider post-deposition annealing in an oxygen atmosphere to improve crystallinity and stoichiometry.
+
+### Safety and Handling
+- Ensure proper handling and safety protocols for all chemicals, especially volatile metal-organic precursors and reactive gases like ozone.
+
+This process outline provides a starting point for developing an ALD process for strontium titanate. Specific parameters may need to be adjusted based on the equipment and desired film properties.

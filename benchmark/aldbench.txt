@@ -1,0 +1,70 @@
+Can I grow ITO epitaxially by ALD without annealing?
+Give me a good ALD process for growing strontium titanate by ALD
+What conditions should I use to grow ZnO epitaxially on sapphire by ALD?
+Which organic molecules can I use for the molecular layer deposition of organic-inorganic composite materials based on Ti?
+What is a good thermal atomic layer etching process for copper?
+What is a good ALD process for MgF2?
+What is a good atomic layer etching process for cobalt?
+What precursors can be used to grow barium oxide via ALD?
+How do I grow MoS2 by ALD?
+What molybdenum precursors can I use to grow MoS2 via ALD?
+How many ALD cycles will I need to grow a monolayer of MoS2?
+Does MoS2 ALD with molybdenum hexacarbonyl as the Mo precursor require a nucleation layer?
+How can I increase crystallinity in ALD MoS2 without thermal annealing treatment?
+How do I grow Al2O3 via ALD?
+How do I grow ZnO by ALD?
+How do I grow Co3O4 via ALD?
+What are the precursors I can choose from and the fabrication condition required to grow iridium via ALD?
+How can I grow metal Ru thin films by ALD?
+How can I grow metal Co thin films by ALD?
+What co-reactants are needed to grow Co metal films using ALD?
+What co-reactants are needed to grow W metal films using ALD?
+What co-reactant should I use for Pt ALD with Pt(MeCp)Me3?
+What is the growth per cycle for the ALD of MgO with bis-cyclopentadienyl magnesium and water at 200 C?
+What is the out of plane preferential orientation of a ZnO film grown from diethyl zinc and water?
+What mass gain should I expect in QCM during the ALD of TiO2 from TiCl4 and water?
+What values of the sticking coefficient should I use to model the ALD of Al2O3 from TMA and water at atmospheric pressure?
+What is the typical growth per cycle (GPC) of MoS2 ALD?
+What is the temperature window for MoS2 ALD?
+Do certain ALD precursors give more crystalline MoS2 thin films?
+How much nucleation delay is there in MoS2 ALD?
+Why can TMA react with H2O, O2 plasma, or O3 to form Al2O3 but shows limited reactivity (or not) with O2?
+In DFT calculations, why does the ruthenium precursor, tricarbonyl (η4-2-methylene-1,3 propanediyl) ruthenium(II), C4H6Ru(CO)3), show favorable adsorption on Ru and Mo surfaces but not on SiO2 or MoO3?
+How can we estimate the decomposition temperature of tricarbonyl (η4-2-methylene-1,3 propanediyl) ruthenium(II), C4H6Ru(CO)3)?
+How can we define the adsorption behavior of tricarbonyl (η4-2-methylene-1,3-propanediyl) ruthenium(II), C4H6Ru(CO)3) on surfaces through ligand dissociation, and which ligand dissociates first?
+Why is ALD of metallic aluminum challenging?
+What is the maximum growth temperature for Al2O3 ALD with TMA and H2O?
+What temperature should I heat my precursor bubbler to when performing In2O3 ALD with InCp?
+What are the strongest peaks observed in FTIR spectra during in situ measurements of ALD Al2O3 using TMA and H2O?
+Can I get inhomogeneous growths over large substrates using an ALD process that is truly self-limited?
+How can I model precursor-surface interactions during ALD using DFT?
+What types of plasma sources are available in ALD?
+What is a hollow cathode plasma source used in ALD?
+Which plasma parameters can be controlled in a plasma ALD ?
+What are the basic differences between CVD and ALD?
+How to eliminate temperature condensation in an ALD reactor?
+What is a plasma artifact in ALD process?
+What materials can be synthesized via ALD?
+What materials cannot be synthesized via ALD?
+What is the typical temperature window for ALD?
+Does the reactor pressure influence the growth rate during the ALD process?
+How does the temperature affect the growth of films during the ALD process?
+What characterization can be done to differentiate between Atomic Layer Deposition and Sequential Infiltration Synthesis process?
+Can we do ALD under atmospheric pressure?
+Why is initial growth rate different from steady state growth per cycle in a ALD process?
+How can we reduce oxidation to maintain a metallic thin film during the metal ALD process?
+Can co-reactants (sequential pulses) be used to modify the surface during ALD to adjust the growth per cycle?
+If contamination from precursor fragments remains in the ALD film, how does it affect the crystal structure of the ALD film?
+How can we remove carbon (C) from precursors in ALD thin films?
+Can we estimate the surface coverage of a precursor from DFT calculations?
+How can we distinguish film formation by ALD or CVD at high temperatures?
+What features of an ALD process dictate whether the process can be scaled up for commercial production?
+Why is it that sometimes an ALD process that works well on planar substrates fails when attempting to coat high surface area powders?
+What controls the maximum aspect ratio that an ALD process can coat conformally?
+Who invented ALD?
+What is a major source of signal instability when performing in situ QCM measurements of ALD?
+What is a good test structure for characterizing the ferroelectric behavior of HfZrO2 thin films?
+What metal oxide have been deposited via ALD for membrane application?
+What is the role of metal oxide deposited via ALD on membranes for water filtration?
+Has ALD been used for modification of gas separation or solvent separation membranes?
+What is the typical electron mobility of MoS2 thin films prepared by ALD?

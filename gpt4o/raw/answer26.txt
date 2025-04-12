@@ -1,0 +1,13 @@
+The sticking coefficient is a parameter that represents the probability of a gas-phase molecule sticking to a surface upon collision. In the context of atomic layer deposition (ALD) of Al₂O₃ using trimethylaluminum (TMA) and water, the sticking coefficient can vary depending on several factors, including temperature, surface conditions, and the specific ALD process parameters.
+
+For ALD processes, the sticking coefficient is often not directly measured or reported, as the process is typically self-limiting and controlled by surface chemistry rather than gas-phase kinetics. However, some studies and simulations may provide estimates or effective values for modeling purposes.
+
+In general, for ALD processes like Al₂O₃ deposition from TMA and water, the sticking coefficient is often assumed to be relatively high during the initial surface reactions, as the chemisorption of TMA and water is highly favorable. Values can range from 0.1 to 1, depending on the specific conditions and assumptions used in the model.
+
+If you are conducting simulations or modeling, it is advisable to:
+
+1. Review literature specific to ALD of Al₂O₃ using TMA and water to find any reported values or estimates.
+2. Consider using a sensitivity analysis to understand how variations in the sticking coefficient affect your model outcomes.
+3. Collaborate with experimentalists to validate your model against experimental data, which can help refine the sticking coefficient value used.
+
+Ultimately, the choice of sticking coefficient should be guided by the specific goals of your modeling effort and the available experimental data.

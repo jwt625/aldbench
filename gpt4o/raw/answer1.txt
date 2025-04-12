@@ -1,0 +1,15 @@
+Growing indium tin oxide (ITO) epitaxially using atomic layer deposition (ALD) without annealing is challenging. Epitaxial growth typically requires a high degree of order and crystallinity, which is often achieved through post-deposition annealing. ALD, known for its precise thickness control and conformality, usually results in amorphous or polycrystalline films at the low temperatures typically used in the process.
+
+However, achieving epitaxial growth without annealing might be possible under specific conditions:
+
+1. **Substrate Choice**: The substrate should have a lattice structure and orientation that closely matches ITO to promote epitaxial growth. Single-crystal substrates like sapphire or yttria-stabilized zirconia (YSZ) might be suitable.
+
+2. **Deposition Temperature**: Increasing the deposition temperature can enhance surface mobility, promoting crystalline growth. However, this must be balanced with the thermal stability of the substrate and the ALD precursors.
+
+3. **Precursor Selection**: The choice of precursors can influence the growth mechanism and film quality. Using precursors that decompose at higher temperatures might help in achieving better crystallinity.
+
+4. **Process Optimization**: Fine-tuning the ALD process parameters, such as pulse and purge times, can influence the film's microstructure.
+
+5. **In-situ Techniques**: Utilizing in-situ techniques like plasma enhancement or laser assistance during ALD might help in achieving the desired crystallinity without the need for post-deposition annealing.
+
+While these strategies might help, achieving high-quality epitaxial ITO films without annealing remains a complex task and may require extensive experimentation and optimization.

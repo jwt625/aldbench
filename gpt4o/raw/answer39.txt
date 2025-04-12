@@ -1,0 +1,15 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique known for its ability to produce highly uniform and conformal coatings, even on complex and large substrates. The process is inherently self-limiting, meaning that it relies on sequential, self-terminating surface reactions to deposit material one atomic layer at a time. This self-limiting nature is what typically ensures uniformity across the substrate.
+
+However, achieving inhomogeneous growth over large substrates using ALD, while maintaining the self-limiting nature of the process, can be challenging. Here are some factors that could lead to inhomogeneous growth:
+
+1. **Temperature Gradients**: ALD processes are sensitive to temperature, and any temperature gradients across a large substrate can lead to variations in growth rates. Ensuring uniform temperature distribution is crucial for maintaining uniformity.
+
+2. **Precursor Distribution**: Uneven distribution of precursors across the substrate can result in non-uniform growth. This can be addressed by optimizing the reactor design and precursor delivery system to ensure even exposure.
+
+3. **Surface Chemistry Variations**: Variations in the surface chemistry or topography of the substrate can lead to differences in nucleation and growth rates. Surface preparation and cleaning are important to minimize these effects.
+
+4. **Process Parameters**: Deviations in process parameters such as pulse and purge times, pressure, and precursor saturation can affect uniformity. Precise control and optimization of these parameters are necessary.
+
+5. **Intentional Patterning**: If inhomogeneous growth is desired for specific applications, it might be achieved through intentional patterning or masking techniques prior to ALD, or by using selective ALD processes that exploit differences in surface chemistry.
+
+While ALD is designed to be self-limiting and uniform, achieving controlled inhomogeneity requires careful consideration of these factors and possibly integrating additional techniques to introduce the desired variations.

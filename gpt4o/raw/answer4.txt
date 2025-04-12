@@ -1,0 +1,21 @@
+Molecular Layer Deposition (MLD) is a technique used to create thin films with precise control over thickness and composition. When creating organic-inorganic composite materials based on titanium (Ti), you can use a variety of organic molecules that can react with titanium precursors to form hybrid layers. Here are some common organic molecules and strategies used in MLD for Ti-based composites:
+
+1. **Titanium Precursors:**
+   - Titanium tetrachloride (TiCl₄) is a common titanium precursor used in MLD processes.
+   - Titanium isopropoxide (TTIP) is another widely used precursor for titanium oxide layers.
+
+2. **Organic Precursors:**
+   - **Alcohols:** Simple alcohols like ethylene glycol or glycerol can be used to form titanium alkoxide layers.
+   - **Carboxylic Acids:** Molecules like acetic acid or longer-chain fatty acids can react with titanium precursors to form ester linkages.
+   - **Amines:** Amines such as ethylenediamine can be used to form amide linkages with titanium precursors.
+   - **Diols and Polyols:** These can be used to create cross-linked networks with titanium, providing more robust organic-inorganic interfaces.
+   - **Diketones:** Molecules like acetylacetone can form chelates with titanium, which can be useful for creating stable layers.
+
+3. **Hybrid Organic-Inorganic Precursors:**
+   - **Metal Alkoxides:** These can be used in combination with organic molecules to form mixed organic-inorganic layers.
+   - **Organosilanes:** These can be used to introduce organic functionality while maintaining a strong bond with the inorganic titanium component.
+
+4. **Functionalized Organic Molecules:**
+   - Molecules with specific functional groups (e.g., -OH, -COOH, -NH₂) that can react with titanium precursors to form covalent bonds.
+
+When selecting organic molecules for MLD, consider the desired properties of the final composite material, such as mechanical strength, thermal stability, and chemical resistance. Additionally, the choice of organic molecules will depend on the specific application and the compatibility with the titanium precursor used in the process.

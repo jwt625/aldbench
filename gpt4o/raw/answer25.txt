@@ -1,0 +1,26 @@
+In a quartz crystal microbalance (QCM) experiment during the atomic layer deposition (ALD) of titanium dioxide (TiO₂) using titanium tetrachloride (TiCl₄) and water (H₂O) as precursors, the mass gain per cycle can be estimated based on the surface reactions involved in the ALD process.
+
+The ALD process for TiO₂ using TiCl₄ and H₂O typically involves two half-reactions:
+
+1. **TiCl₄ exposure:**
+   \[
+   \text{TiOH*} + \text{TiCl}_4 \rightarrow \text{TiO-TiCl}_3* + \text{HCl}
+   \]
+   Here, TiOH* represents a hydroxyl-terminated surface, and TiO-TiCl₃* is the surface after the reaction.
+
+2. **H₂O exposure:**
+   \[
+   \text{TiCl}_3* + \text{H}_2\text{O} \rightarrow \text{TiOH*} + \text{HCl}
+   \]
+   This regenerates the hydroxyl-terminated surface.
+
+The net result of one ALD cycle is the formation of a TiO₂ layer. The mass gain per cycle can be estimated by considering the molecular weights of the reactants and products involved in these reactions.
+
+- **Molecular weight of TiO₂:** 79.87 g/mol
+- **Molecular weight of HCl (byproduct):** 36.46 g/mol
+
+In each cycle, one TiO₂ unit is deposited, and HCl is released. The mass gain per cycle is primarily due to the deposition of TiO₂, as the HCl byproduct is volatile and does not contribute to the mass gain.
+
+The mass gain per unit area per cycle can vary depending on the specific conditions of the ALD process, such as temperature, pressure, and the specific surface chemistry of the substrate. However, a typical mass gain for TiO₂ ALD using TiCl₄ and H₂O is in the range of 20-30 ng/cm² per cycle. This corresponds to a growth rate of about 0.5-1.0 Å per cycle, assuming a typical density for TiO₂.
+
+For precise measurements, experimental calibration with the specific QCM setup and conditions is necessary.

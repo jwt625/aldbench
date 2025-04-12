@@ -1,0 +1,14 @@
+Atomic Layer Deposition (ALD) is a technique used to deposit thin films of materials, including metals like cobalt (Co), with atomic-level precision. To grow cobalt metal films using ALD, you typically need a cobalt precursor and a co-reactant. The choice of these chemicals can vary depending on the specific ALD process and desired film properties. Here are some common options:
+
+1. **Cobalt Precursors:**
+   - **Cobalt Carbonyls:** Such as dicobalt octacarbonyl (Co2(CO)8).
+   - **Cobalt Amidinate:** Such as bis(N,N'-diisopropylacetamidinato)cobalt(II).
+   - **Cobalt Cyclopentadienyls:** Such as bis(cyclopentadienyl)cobalt(II) (Cp2Co).
+
+2. **Co-reactants:**
+   - **Hydrogen (H2):** Often used as a reducing agent to facilitate the reduction of cobalt precursors to metallic cobalt.
+   - **Oxygen (O2) or Ozone (O3):** Used in processes where cobalt oxide films are desired, which can then be reduced to metallic cobalt.
+   - **Water (H2O):** Sometimes used in processes that involve cobalt oxide formation as an intermediate step.
+   - **Plasma or Radical Sources:** Such as hydrogen plasma, which can enhance the reduction process.
+
+The specific choice of precursor and co-reactant will depend on factors such as the desired film properties, substrate compatibility, and process conditions. Additionally, the ALD process parameters, such as temperature and pressure, will be optimized to ensure high-quality film growth.

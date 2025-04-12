@@ -1,0 +1,15 @@
+In the context of Atomic Layer Deposition (ALD), a plasma artifact refers to any unintended or undesirable effect that occurs during a plasma-enhanced ALD (PEALD) process. PEALD is a variation of ALD that uses plasma to activate or enhance certain reactions, typically to improve film quality, reduce processing temperatures, or enable deposition of materials that are difficult to deposit using thermal ALD alone.
+
+Plasma artifacts can arise from several factors, including:
+
+1. **Non-uniformity**: Plasma can sometimes lead to non-uniform deposition across the substrate due to variations in plasma density or distribution.
+
+2. **Damage to Substrate**: The energetic species in plasma can cause physical or chemical damage to the substrate or underlying layers, which can affect the properties of the deposited film.
+
+3. **Contamination**: Plasma processes can introduce contaminants if the plasma interacts with chamber materials or if there are impurities in the plasma gas.
+
+4. **Unintended Reactions**: The reactive species generated in the plasma might lead to unintended side reactions, affecting the composition or structure of the deposited film.
+
+5. **Surface Roughness**: Plasma can sometimes increase the surface roughness of the deposited film, which might be undesirable for certain applications.
+
+Addressing plasma artifacts typically involves optimizing the plasma parameters (such as power, pressure, and gas composition) and the overall process conditions to minimize these effects while achieving the desired film properties.

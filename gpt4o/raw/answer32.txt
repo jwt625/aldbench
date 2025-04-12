@@ -1,0 +1,13 @@
+The adsorption behavior of tricarbonyl (η4-2-methylene-1,3 propanediyl) ruthenium(II), C4H6Ru(CO)3, on different surfaces can be understood by considering the nature of the interactions between the precursor and the surfaces.
+
+1. **Metallic Surfaces (Ru and Mo):**
+   - **Chemical Affinity:** Ruthenium and molybdenum surfaces are metallic and can form strong chemical bonds with the precursor. The d-orbitals of the metal surfaces can overlap with the orbitals of the ruthenium precursor, facilitating strong metal-metal interactions.
+   - **π-backbonding:** The CO ligands in the precursor can engage in π-backbonding with the metal surfaces. This involves the donation of electron density from the filled d-orbitals of the metal surface to the empty π* orbitals of the CO ligands, stabilizing the adsorption.
+   - **Surface Reactivity:** Both Ru and Mo surfaces are known for their catalytic properties and high surface reactivity, which can enhance the adsorption of organometallic compounds.
+
+2. **Oxide Surfaces (SiO2 and MoO3):**
+   - **Lack of Metallic Bonding:** SiO2 and MoO3 are oxide surfaces, which do not have the same metallic character as Ru and Mo. They lack the d-orbitals necessary for strong metal-metal interactions and π-backbonding with the CO ligands.
+   - **Surface Polarity and Acidity:** SiO2 is a non-metallic, polar surface with acidic properties, which may not interact favorably with the organometallic precursor. MoO3, being a metal oxide, also has a different electronic structure that does not support strong adsorption of the precursor.
+   - **Weak Physisorption:** On oxide surfaces, the interaction is more likely to be physisorption, which involves weaker van der Waals forces rather than strong chemisorption. This results in less favorable adsorption compared to metallic surfaces.
+
+Overall, the electronic structure and chemical properties of Ru and Mo surfaces make them more conducive to strong adsorption of the ruthenium precursor, whereas the oxide surfaces lack the necessary characteristics to facilitate such interactions.

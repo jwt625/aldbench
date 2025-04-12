@@ -1,0 +1,11 @@
+In situ Fourier-transform infrared (FTIR) spectroscopy is a valuable tool for monitoring the surface reactions during atomic layer deposition (ALD) of materials like aluminum oxide (Al2O3) using precursors such as trimethylaluminum (TMA) and water (H2O). During the ALD process, several characteristic peaks can be observed in the FTIR spectra, corresponding to different chemical species and reactions occurring on the surface.
+
+1. **Methyl Groups (CH3):** One of the strongest peaks observed during the TMA exposure step is associated with the methyl groups. These peaks typically appear in the range of 2800-3000 cm⁻¹, corresponding to the C-H stretching vibrations.
+
+2. **Al-O Stretching:** As the ALD process progresses and Al2O3 forms, peaks related to Al-O stretching vibrations can be observed. These peaks are typically found in the range of 600-900 cm⁻¹.
+
+3. **Hydroxyl Groups (OH):** During the water exposure step, hydroxyl groups are formed on the surface. The O-H stretching vibrations can be observed as broad peaks around 3200-3700 cm⁻¹.
+
+4. **Surface Reactions:** The reaction between TMA and surface hydroxyl groups can lead to the formation of Al-CH3 and Al-OH species, which can also be detected in the FTIR spectra. The disappearance of certain peaks (e.g., O-H) and the appearance of new ones (e.g., Al-O) provide insights into the surface chemistry and reaction mechanisms.
+
+These peaks and their changes during the ALD cycle provide crucial information about the surface reactions and the growth mechanism of Al2O3. The exact position and intensity of these peaks can vary depending on the specific conditions and setup of the FTIR measurements.

@@ -1,0 +1,17 @@
+The maximum aspect ratio that an Atomic Layer Deposition (ALD) process can coat conformally is primarily controlled by several factors:
+
+1. **Precursor Diffusion**: The ability of the precursor gases to diffuse into narrow and deep features is crucial. If the precursors cannot reach the bottom of high aspect ratio structures, uniform coating will not be achieved.
+
+2. **Surface Reaction Kinetics**: The speed and efficiency of the surface reactions between the precursor and the substrate affect the conformality. Faster and more efficient reactions can help ensure that the entire surface, including deep trenches, is coated.
+
+3. **Purge Efficiency**: Effective purging of excess precursors and reaction by-products is necessary to prevent unwanted reactions and ensure that each ALD cycle is complete before the next begins. Inadequate purging can lead to non-uniform coatings.
+
+4. **Precursor Saturation**: ALD relies on self-limiting reactions, where the surface becomes saturated with the precursor, stopping further reaction. Ensuring complete saturation in high aspect ratio structures is essential for conformality.
+
+5. **Temperature**: The process temperature can influence the volatility and reactivity of the precursors, affecting their ability to penetrate and react within high aspect ratio features.
+
+6. **Precursor Design**: The chemical properties of the precursors, such as their size, reactivity, and volatility, play a significant role. Smaller, more volatile precursors can more easily penetrate high aspect ratio structures.
+
+7. **Cycle Time**: Longer exposure and purge times can help improve conformality in high aspect ratio structures by allowing more time for diffusion and reaction.
+
+Optimizing these factors is crucial for achieving uniform and conformal coatings in high aspect ratio structures using ALD.

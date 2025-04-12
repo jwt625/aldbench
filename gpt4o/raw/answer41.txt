@@ -1,0 +1,13 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that can utilize plasma to enhance the process. Plasma-enhanced ALD (PEALD) uses plasma sources to generate reactive species that can improve film quality, reduce processing temperatures, and enable the deposition of materials that are difficult to deposit using thermal ALD alone. There are several types of plasma sources used in ALD:
+
+1. **Inductively Coupled Plasma (ICP):** This type of plasma source uses an inductive coil to generate a magnetic field, which in turn creates a plasma. ICP sources are known for producing high-density plasmas and are often used when a high degree of ionization is required.
+
+2. **Capacitively Coupled Plasma (CCP):** In CCP sources, an electric field is created between two electrodes, which ionizes the gas to form plasma. CCP sources are generally simpler and less expensive than ICP sources but may produce lower plasma densities.
+
+3. **Electron Cyclotron Resonance (ECR) Plasma:** ECR sources use a combination of magnetic fields and microwave radiation to generate plasma. They are capable of producing high-density plasmas with low ion energies, which can be beneficial for certain ALD processes.
+
+4. **Remote Plasma Sources:** In remote plasma setups, the plasma is generated away from the substrate, and only the reactive species (such as radicals) reach the substrate surface. This can minimize ion bombardment and potential damage to sensitive substrates.
+
+5. **Microwave Plasma:** This type of plasma source uses microwave radiation to generate plasma. Microwave plasmas can be used to produce high-density plasmas and are often employed in remote plasma configurations.
+
+Each type of plasma source has its own advantages and limitations, and the choice of plasma source in ALD depends on the specific material being deposited, the desired film properties, and the substrate being used.

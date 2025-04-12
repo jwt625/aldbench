@@ -1,0 +1,14 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that relies on sequential, self-limiting surface reactions. For growing barium oxide (BaO) via ALD, you need suitable precursors for both barium and oxygen. Here are some potential precursors:
+
+1. **Barium Precursors:**
+   - **Barium Bis(trimethylsilyl)amide (Ba(TMSA)₂):** This is a common precursor for barium in ALD processes.
+   - **Barium β-diketonates:** Such as barium hexafluoroacetylacetonate (Ba(hfac)₂) or barium acetylacetonate (Ba(acac)₂).
+   - **Barium Alkoxides:** These can also be used, although they may have stability issues.
+
+2. **Oxygen Precursors:**
+   - **Water (H₂O):** Commonly used as an oxygen source in ALD.
+   - **Ozone (O₃):** Provides a more reactive oxygen source, which can be beneficial for certain processes.
+   - **Oxygen Plasma:** Can be used to provide highly reactive oxygen species.
+   - **Hydrogen Peroxide (H₂O₂):** Another potential oxygen source.
+
+The choice of precursors depends on several factors, including the desired film properties, deposition temperature, and compatibility with the ALD process. It's important to ensure that the chosen precursors are volatile, thermally stable, and reactive enough to facilitate the ALD process.

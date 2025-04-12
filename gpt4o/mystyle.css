@@ -1,0 +1,15 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h2 {
+  color: navy;
+  font-family:Arial,Helvetica, sansserif;
+}
+
+p {
+    font-family:"Lucida Console", "Courier New", monospace;
+    padding-left:10%;
+    padding-right:10%;
+}

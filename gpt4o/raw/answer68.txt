@@ -1,0 +1,15 @@
+Atomic Layer Deposition (ALD) is a thin-film deposition technique that allows for the precise control of film thickness and composition at the atomic level. When metal oxides are deposited on membranes via ALD for water filtration, they serve several important roles:
+
+1. **Enhanced Selectivity**: Metal oxide coatings can modify the surface chemistry of the membrane, improving its selectivity for specific ions or molecules. This can be particularly useful in applications like desalination or removal of specific contaminants.
+
+2. **Improved Fouling Resistance**: Fouling, the accumulation of unwanted materials on the membrane surface, is a major challenge in water filtration. Metal oxide coatings can make the membrane surface more hydrophilic or alter its charge, reducing the tendency for organic and inorganic materials to adhere.
+
+3. **Increased Chemical Stability**: Some metal oxides can enhance the chemical stability of membranes, making them more resistant to harsh cleaning agents or extreme pH conditions. This can extend the lifespan of the membrane and reduce maintenance costs.
+
+4. **Antimicrobial Properties**: Certain metal oxides, such as titanium dioxide (TiO2) and zinc oxide (ZnO), have antimicrobial properties. When used as a coating, they can help prevent the growth of bacteria and biofilms on the membrane surface.
+
+5. **Structural Reinforcement**: ALD can deposit conformal coatings that reinforce the mechanical strength of the membrane without significantly affecting its permeability. This can be particularly beneficial for thin or fragile membranes.
+
+6. **Tailored Pore Size and Distribution**: By carefully controlling the deposition process, ALD can be used to fine-tune the pore size and distribution on the membrane surface, optimizing it for specific filtration applications.
+
+Overall, the use of metal oxides deposited via ALD on membranes can significantly enhance the performance, durability, and functionality of water filtration systems, making them more efficient and cost-effective.

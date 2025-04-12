@@ -1,0 +1,13 @@
+Atomic Layer Deposition (ALD) of MoS₂ typically involves using a molybdenum precursor and a sulfur source. For the molybdenum precursor, several options have been explored in research and development. Some commonly used molybdenum precursors for ALD of MoS₂ include:
+
+1. **Molybdenum Hexacarbonyl (Mo(CO)₆):** This is a volatile compound that has been used in various deposition processes, including ALD. It can decompose to provide molybdenum for the formation of MoS₂.
+
+2. **Molybdenum Chlorides (e.g., MoCl₅):** These can be used as precursors, although they may require careful handling due to their corrosive nature.
+
+3. **Bis(tert-butylimido)bis(dimethylamido)molybdenum (Mo(NtBu)₂(NMe₂)₂):** This is a more specialized precursor that has been used in some ALD processes for MoS₂.
+
+4. **Molybdenum Ethoxide (MoO₂(Et)₂):** This is another option that has been explored for ALD processes.
+
+5. **Molybdenum Alkylamides:** These are also potential precursors, though they may not be as commonly used as some of the others listed.
+
+The choice of precursor can depend on several factors, including the desired film properties, the specific ALD process parameters, and the availability and handling requirements of the precursor. Additionally, the sulfur source is typically H₂S gas or a volatile sulfur compound like diethyl sulfide or elemental sulfur vapor. The combination of the molybdenum precursor and sulfur source, along with the specific ALD conditions, will determine the quality and characteristics of the resulting MoS₂ film.
